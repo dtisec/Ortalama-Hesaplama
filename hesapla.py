@@ -1,4 +1,4 @@
-sinav1= input("2. Yazılı Notunuzu Giriniz: ")
+sinav1= input("1. Yazılı Notunuzu Giriniz: ")
 sinav2 = input("2. Yazılı Notunuzu Giriniz: ")
 
 ortalama = (float(sınav1)+float(sınav2))/3
